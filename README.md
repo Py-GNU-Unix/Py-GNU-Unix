@@ -1,4 +1,4 @@
-# $ Whoami
+# Whoami
 ### Imma python programmer, and i like UNIX systems and open source.
 
 # My statistics
